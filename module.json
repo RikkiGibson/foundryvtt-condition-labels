@@ -1,0 +1,15 @@
+{
+	"name": "foundryvtt-condition-labels",
+	"title": "FoundryVTT Condition Labels",
+	"description": "Adds a label which shows the currently hovered condition in the token HUD.",
+	"version": "0.1.0",
+	"author": "RikkiGibson",
+	"scripts": ["conditionLabels.js"],
+	"styles": [],
+	"languages": [],
+	"minimumCoreVersion": "0.8.8",
+	"compatibleCoreVersion": "0.8.8",
+	"url": "https://github.com/RikkiGibson/foundryvtt-condition-labels",
+	"manifest": "https://raw.githubusercontent.com/RikkiGibson/foundryvtt-condition-labels/master/module.json",
+	"download": "https://github.com/RikkiGibson/foundryvtt-condition-labels/archive/refs/heads/master.zip"
+}
