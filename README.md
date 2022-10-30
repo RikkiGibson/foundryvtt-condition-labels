@@ -8,6 +8,6 @@ Adds a label which instantly shows the currently hovered condition in the token 
 
 In **Configuration and Setup** go to **Add-on Modules**->**Install Module**, then type the following URL:
 
-`https://github.com/RikkiGibson/foundryvtt-condition-labels/archive/refs/heads/master.zip`
+`https://raw.githubusercontent.com/RikkiGibson/foundryvtt-condition-labels/master/module.json`
 
 Then hit **Install**. Make sure to enable the module in your game world.
