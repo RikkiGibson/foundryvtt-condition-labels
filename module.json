@@ -2,7 +2,7 @@
 	"name": "foundryvtt-condition-labels",
 	"title": "Condition Labels",
 	"description": "Adds a label which shows the currently hovered condition in the token HUD.",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"author": "RikkiGibson",
 	"scripts": ["conditionLabels.js"],
 	"styles": ["conditions.css"],
