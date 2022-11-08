@@ -5,7 +5,7 @@
 	"version": "0.1.0",
 	"author": "RikkiGibson",
 	"scripts": ["conditionLabels.js"],
-	"styles": [],
+	"styles": ["conditions.css"],
 	"languages": [],
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",

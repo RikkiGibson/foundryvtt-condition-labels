@@ -1,0 +1,15 @@
+/* Improve readabiliy of status effects */
+#token-hud .status-effects {
+    width: 500px;
+}
+
+#token-hud .status-effects .effect-control {
+    width: 72px;
+    height: 72px;
+}
+
+#current-status {
+    grid-column: span 4;
+    white-space: nowrap;
+    font-size: large;
+}

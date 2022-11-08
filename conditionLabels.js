@@ -5,7 +5,7 @@ Hooks.on('renderTokenHUD', onRenderTokenHUD);
 
 function onRenderTokenHUD(_, $elem) {
     const label =
-`<span style="grid-column:span 4; white-space: nowrap" id="current-status">
+`<span id="current-status">
     &nbsp;
 </span>`
     const $statusEffects = $elem.find('.status-effects');
