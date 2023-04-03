@@ -1,6 +1,6 @@
-/* Improve readabiliy of status effects */
+/* Improve readability of status effects */
 #token-hud .status-effects {
-    width: 450px;
+    width: 300px;
 }
 
 #token-hud .status-effects .effect-control {
